@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-    	//primer desarroollador
+    	//segundo desarrollador
         System.out.println( "Hello World!" );
         
         String [] arreglo = {"hola","mundo","expertweb","test"};
