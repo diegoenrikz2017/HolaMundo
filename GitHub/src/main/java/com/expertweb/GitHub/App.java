@@ -11,6 +11,8 @@ public class App
     	//primer desarroollador
         System.out.println( "Hello World!" );
         
-        String [] arreglo = {"hola","mundo"};
+        String [] arreglo = {"hola","mundo","expertweb","test"};
+        
+        System.out.println("Segundo Desarrollador");
     }
 }
