@@ -11,8 +11,9 @@ public class App
 
     	// desarrolladores que intervienen con github
         System.out.println( "Hello World!" );
+        System.out.println( "Hola Mundo desde Spring" );
         
-        String [] arreglo = {"hola","mundo","expertweb","test", "github"};
+        String [] arreglo = {"hola","mundo","expertweb","test", "github","arreglo"};
         
         System.out.println("Segundo Desarrollador");
 
