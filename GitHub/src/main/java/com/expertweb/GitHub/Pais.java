@@ -11,7 +11,7 @@ public class Pais {
 		this.id = id;
 	}
 	public String getNombre() {
-		System.out.println("Segunda Maquina");
+		System.out.println("Union Maquina");
 		return nombre;
 	}
 	public void setNombre(String nombre) {
