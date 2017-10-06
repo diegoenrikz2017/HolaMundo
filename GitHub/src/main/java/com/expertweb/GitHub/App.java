@@ -15,12 +15,12 @@ public class App
         
         String [] arreglo = {"hola","mundo","expertweb","test", "github","arreglo","primero"};
         
-        System.out.println("Primer Desarrollador");
+        System.out.println("Los Desarrollador");
 
         for (String arreglos:arreglo) {
 			System.out.println("Mensaje:" + arreglos);
-			System.out.println("Primer Desarrollador");
-			System.out.println("Primer Desarrollador");
+			System.out.println("Los Desarrollador");
+			System.out.println("Los Desarrollador");
 		}
     }
 }
