@@ -13,12 +13,13 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println( "Hola Mundo desde Spring" );
         
-        String [] arreglo = {"hola","mundo","expertweb","test", "github","arreglo"};
+        String [] arreglo = {"hola","mundo","expertweb","test", "github","arreglo","primero"};
         
-        System.out.println("Segundo Desarrollador");
+        System.out.println("Primer Desarrollador");
 
         for (String arreglos:arreglo) {
 			System.out.println("Mensaje:" + arreglos);
+			System.out.println("Primer Desarrollador");
 			System.out.println("Primer Desarrollador");
 		}
     }
