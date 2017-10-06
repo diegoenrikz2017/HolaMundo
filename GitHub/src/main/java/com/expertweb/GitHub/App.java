@@ -16,8 +16,9 @@ public class App
         
         System.out.println("Segundo Desarrollador");
 
-        for (int i = 0; i < arreglo.length; i++) {
-			System.out.println("Mensaje:" + arreglo[i]);
+        for (String arreglos:arreglo) {
+			System.out.println("Mensaje:" + arreglos);
+			System.out.println("Primer Desarrollador");
 		}
     }
 }
