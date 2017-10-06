@@ -17,10 +17,10 @@ public class App
         
         System.out.println("Primer Desarrollador");
 
-        for (String arreglos:arreglo) {
-			System.out.println("Mensaje:" + arreglos);
-			System.out.println("Primer Desarrollador");
-			System.out.println("Primer Desarrollador");
+        for (int i = 0; i < arreglo.length; i++) {
+        	System.out.println("Imprimer arreglo");
+        	System.out.println("Mensaje:" + arreglo[i]);
 		}
+
     }
 }
